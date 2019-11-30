@@ -282,10 +282,10 @@ body {
     border: 0;
     padding: 6px 10px;
     -webkit-box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.06);
-            box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.06);
+    box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.06);
     background-color: #ffffff;
     font-weight: bold;
-    font-size: 12px;
+    font-size: 11px;
     outline-color: #212121;
     text-transform: uppercase;
 }

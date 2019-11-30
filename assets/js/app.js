@@ -112,11 +112,10 @@
         $('.chatbox .btn-help').on('click', function(){
             
             $(this).toggleClass(cls);
-
+             $('.c-sect').removeClass(cls);
             $(_bubbles).each(function(i, e){
                 
-                var _this = $(this);
-         
+                var _this = $(this);        
                
                  _this.css('transitionDelay','.'+i+'s').toggleClass(_clsShow);
                 
