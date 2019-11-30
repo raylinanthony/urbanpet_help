@@ -1,0 +1,368 @@
+:root {
+    font-size: 10px;
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #212121;
+    margin: 0;
+    height: 100%;
+    padding: 0;
+}
+.trans-3 {
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.trans-special {
+    -webkit-transition: all .5s cubic-bezier(0.6, 0.04, 0, 0.93);
+    -o-transition: all .5s cubic-bezier(0.6, 0.04, 0, 0.93);
+    transition: all .5s cubic-bezier(0.6, 0.04, 0, 0.93);
+}
+
+.trans-5 {
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon/urbanPet.eot?9rjymo');
+    src: url('../fonts/icomoon/urbanPet.eot?9rjymo#iefix') format('embedded-opentype'), url('../fonts/icomoon/urbanPet.ttf?9rjymo') format('truetype'), url('../fonts/icomoon/urbanPet.woff?9rjymo') format('woff'), url('../fonts/icomoon/urbanPet.svg?9rjymo#urbanPet') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block; }
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-faq:before {
+    content: "\e900";
+}
+
+.icon-msg:before {
+    content: "\e901";
+}
+
+.icon-size:before {
+    content: "\e902";
+}
+
+.icon-chat:before {
+    content: "\e903";
+}
+
+/* Chatbox */
+.chatbox {
+    position: absolute;
+    right: 5rem;
+    bottom: 5rem;
+    z-index: 9;
+    font-size: 12px;
+    line-height: 1.4;
+    font-weight: 500;
+    color: #5a5a5a;
+}
+
+.chatbox ul {
+    list-style: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.chatbox .btn-help {
+    padding: 0;
+    display: inline-flex;
+    background: #005d5c;
+    border-radius: 3rem;
+    color: #fff;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: bold;
+    border: 0;
+    cursor: pointer;
+    position: relative;
+    z-index: 2;
+}
+.chatbox .btn-help span{
+    padding: 13px 20px;
+}
+.chatbox .btn-help.active i{
+    display: flex;
+}
+.chatbox .btn-help.active span{
+    display:none;
+}
+.chatbox .btn-help:hover {
+    background: #c2204c;
+}
+.chatbox .btn-help i {
+    font-size:3rem;
+    font-weight: 600;
+    display: none;
+    width:48px;
+    height:48px;
+    align-items: center;
+    justify-content: center;
+}
+
+.chatbox .bubbles {
+    position: absolute;
+    bottom: 5rem;
+    right: 0;
+    z-index: 2;
+}
+
+.chatbox .bubbles a {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    margin-bottom: 10px;
+    position: relative;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 3rem;
+    overflow: hidden;
+    outline: none;
+    right:-3rem;
+    opacity:0;
+    visibility:hidden;
+    pointer-events:none;
+}
+.chatbox .bubbles a.show{
+    right:0rem;
+    opacity:1;
+    visibility: visible;
+    pointer-events:all;
+}
+.chatbox .bubbles a i {
+    font-size: 22px;
+    font-weight: bold;
+    width: 48px;
+    height: 48px;
+    background: #f0d7c5;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    border-radius: 50%;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    z-index: 1;
+    position: relative;
+}
+
+.chatbox .bubbles a:hover {
+    color: #fff;
+    background: #000;
+}
+
+.chatbox .bubbles a:focus {
+    background: none;
+}
+
+.chatbox .bubbles a:hover i, .chatbox .bubbles a.active i {
+    color: #fff;
+    background: #000;
+}
+
+.chatbox .bubbles a span {
+    position: relative;
+    margin-right: -7rem;
+    padding-left: 3rem;
+    visibility: hidden;
+    color: #fff;
+}
+
+.chatbox .bubbles a:hover span {
+    visibility: visible;
+    margin-right: 1rem;
+}
+
+.chatbox .bubbles a:focus span {
+    visibility: hidden !important;
+    margin-right: -7rem !important;
+    padding-left: 0rem !important;
+}
+
+/* Box Sects */
+.chatbox .c-sect {
+    position: absolute;
+    bottom: -49px;
+    right: -2rem;
+    display: none;
+    border-radius: 16px;
+    padding-right: 90px;
+    height: 351px;
+}
+
+.chatbox .c-sect.active {
+    background: #fff7f0;
+    display: block;
+    width: 100%;
+    min-width: 340px;
+}
+
+.chatbox .c-sect .aside-head {
+    padding: 2rem 2rem;
+    border-bottom: 2px solid #f0d7c5;
+    background: #fff7f0;
+    position: -webkit-sticky;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    font-size: 14px;
+    color: #000;
+}
+
+.chatbox .c-sect .aside-head h4 {
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 0;
+}
+
+.chatbox .c-sect .aside-wrap {
+    border-right: 2px solid #f0d7c5;
+    position: relative;
+    height: 100%;
+}
+
+.chatbox .c-sect .aside-content {
+    padding: 10px 20px;
+    overflow: auto;
+    height: calc(100% - 60px);
+}
+
+.chatbox .c-sect .aside-content .wrap-icon {
+    text-align: center;
+    font-weight: bold;
+    color: #aea59f;
+    font-size: 4rem;
+    margin-bottom: 6px;
+}
+
+.chatbox .c-sect .aside-content select {
+    display: block;
+    width: 100%;
+    border: 0;
+    padding: 6px 10px;
+    -webkit-box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.06);
+            box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.06);
+    background-color: #ffffff;
+    font-weight: bold;
+    font-size: 12px;
+    outline-color: #212121;
+    text-transform: uppercase;
+}
+
+.chatbox .c-sect .aside-content table {
+    display: block;
+    width: 100%;
+    font-size: 13px;
+    padding: 0;
+    border: 0;
+}
+
+.chatbox .c-sect .aside-content table td {
+    border-bottom: 1px solid #dadada;
+    padding: 7px 0;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.chatbox .c-sect .aside-content table .name {
+    width: 100%;
+}
+
+.chatbox .c-sect .aside-content table .size {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/** Faq Section **/
+.chatbox #faq-section .faq-list li:first-child {
+    padding-top: 0;
+}
+
+.chatbox #faq-section .faq-list li {
+    border-bottom: 1px solid #dadada;
+    padding: 10px 0 0;
+}
+
+.chatbox #faq-section .faq-list a.ask {
+    display: block;
+    text-decoration: none;
+    font-weight: 600;
+    color: #5a5a5a;
+    margin-bottom: 10px;
+}
+
+.chatbox #faq-section .faq-list a.ask:hover, .chatbox #faq-section .faq-list a.ask:focus {
+    color: #000;
+}
+
+.chatbox #faq-section .faq-list .answer {
+    max-height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+.chatbox #faq-section .faq-list li a.ask:focus + .answer {
+    display: block !important;
+    max-height: 15em;
+    visibility: visible;
+    padding-bottom: 10px;
+}
+.chatbox #faq-section .faq-list li a.ask:focus{
+    color:#005d5c;
+}
+.chatbox #contact-section .aside-content {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.chatbox #contact-section .aside-content a {
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+}
+
+.chatbox #contact-section .aside-content a:hover {
+    text-decoration: underline;
+}

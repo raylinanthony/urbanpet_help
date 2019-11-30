@@ -1,0 +1,3411 @@
+{
+    "affenpinscher": {
+        "collar": [
+            "pp",
+            "xs"
+        ],
+        "en_name": "affenpinscher",
+        "fullName": "affenpinscher",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/affenpinscher.png",
+        "imageIpad": "/affenpinscher_white.png",
+        "leash": [
+            "pp",
+            "xs"
+        ],
+        "leash_ruff": [
+            "-",
+            "-"
+        ],
+        "meshplus": [
+            "pp",
+            "xs"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "affenpinscher",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "-",
+            "-"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "akita": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "akita",
+        "fullName": "akita",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/akita.png",
+        "imageIpad": "/akita.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "akita",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "american staffordshire": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "american staffordshire terrier",
+        "fullName": "american_staffordshire_terrier",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/american_staffordshire_terrier.png",
+        "imageIpad": "/american_staffordshire_terrier_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "staffordshire",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "australian shepard": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "australian shepherd",
+        "fullName": "australian_shepherd",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/australian_shepherd.png",
+        "imageIpad": "/australian_shepherd_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "pastor australiano",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "basenji": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "basenji",
+        "fullName": "basenji",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/basenji.png",
+        "imageIpad": "/basenji_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "basenji",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "g",
+            "l"
+        ]
+    },
+    "basset hound": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "basset hound",
+        "fullName": "basset_hound",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/basset_hound.png",
+        "imageIpad": "/basset_hound_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "basset hound",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "beagle": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "beagle",
+        "fullName": "beagle",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/beagle.png",
+        "imageIpad": "/beagle_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "beagle",
+        "soft_walk": [
+            "p",
+            "s"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "bernese": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "bernese mountain dog",
+        "fullName": "bernese_mountain_dog",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/bernese_mountain_dog.png",
+        "imageIpad": "/bernese_mountain_dog_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "bernese",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "-",
+            "-"
+        ]
+    },
+    "bichon frisé": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "bichon frisé",
+        "fullName": "bichon_frise",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/bichon_frise.png",
+        "imageIpad": "/bichon_frise_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "bichon frisé",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "bichon havanês": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "bichon havanese",
+        "fullName": "bichon_havanes",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/bichon_havanes.png",
+        "imageIpad": "/bichon_havanes_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "bichon havanês",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "boiadeiro australiano": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "australian cattle dog",
+        "fullName": "pastor_boiadeiro",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pastor_boiadeiro.png",
+        "imageIpad": "/pastor_boiadeiro_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "boiadeiro australiano",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "g",
+            "l"
+        ]
+    },
+    "border collie": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "border collie",
+        "fullName": "border_collie",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/border_collie.png",
+        "imageIpad": "/border_collie_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "border collie",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "boston terrier": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "boston terrier",
+        "fullName": "boston_terrier",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/boston_terrier.png",
+        "imageIpad": "/boston_terrier_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "boston terrier",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "boxer": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "boxer",
+        "fullName": "boxer",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/boxer.png",
+        "imageIpad": "/boxer_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "boxer",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "bull terrier": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "bull terrier",
+        "fullName": "bull_terrier",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/bull_terrier.png",
+        "imageIpad": "/bull_terrier_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "bull terrier",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "g",
+            "l"
+        ]
+    },
+    "bulldog francês": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "french bulldog",
+        "fullName": "bulldog_frances",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/bulldog_frances.png",
+        "imageIpad": "/bulldog_frances_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "bulldog francês",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "bulldog inglês": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "english bulldog",
+        "fullName": "bulldog_ingles",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/bulldog_ingles.png",
+        "imageIpad": "/bulldog_ingles_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "bulldog inglês",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "g",
+            "l"
+        ]
+    },
+    "cane corso italiano": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "italian cane corso ",
+        "fullName": "cane_corso_italiano",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/cane_corso_italiano.png",
+        "imageIpad": "/cane_corso_italiano_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "cane corso italiano",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "-",
+            "-"
+        ]
+    },
+    "cavalier king charles": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "cavalier king charles",
+        "fullName": "cavalier_king_charles",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/cavalier_king_charles.png",
+        "imageIpad": "/cavalier_king_charles_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "cavalier king charles",
+        "soft_walk": [
+            "p",
+            "s"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "chihuahua": {
+        "collar": [
+            "pp",
+            "xs"
+        ],
+        "en_name": "chihuahua",
+        "fullName": "chihuahua",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/chihuahua.png",
+        "imageIpad": "/chihuahua_white.png",
+        "leash": [
+            "pp",
+            "xs"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "pp",
+            "xs"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "chihuahua",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "-",
+            "-"
+        ],
+        "sweater": [
+            "pp",
+            "xs"
+        ],
+        "t_shirt": [
+            "pp",
+            "xs"
+        ]
+    },
+    "chow chow": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "chow chow",
+        "fullName": "chow_chow",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/chow_chow.png",
+        "imageIpad": "/chow_chow_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "chow chow",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "cocker spaniel": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "cocker spaniel",
+        "fullName": "cocker_spaniel",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/cocker_spaniel.png",
+        "imageIpad": "/cocker_spaniel_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "cocker spaniel",
+        "soft_walk": [
+            "p",
+            "s"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "collie": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "collie",
+        "fullName": "collie",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/collie.png",
+        "imageIpad": "/collie_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "collie",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "coton de tulear": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "coton de tulear",
+        "fullName": "coton_de_tulear",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/coton_de_tulear.png",
+        "imageIpad": "/coton_de_tulear_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "coton de tulear",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "dashsund": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "dachshund",
+        "fullName": "dachshund",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/dachshund.png",
+        "imageIpad": "/dachshund_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "dachshund",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "dobermann": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "dobermann",
+        "fullName": "doberman",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/doberman.png",
+        "imageIpad": "/doberman_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "dobermann",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "dogo argentino": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "argentine dogo",
+        "fullName": "dogo_argentino",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/dogo_argentino.png",
+        "imageIpad": "/dogo_argentino_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "dogo argentino",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "dogue alemão": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "great dane",
+        "fullName": "dogue_alemao",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/dogue_alemao.png",
+        "imageIpad": "/dogue_alemao_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "dogue alemão",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "-",
+            "-"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "-",
+            "-"
+        ]
+    },
+    "dálmata": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "dalmatian",
+        "fullName": "dalmata",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/dalmata.png",
+        "imageIpad": "/dalmata_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "dálmata",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "g",
+            "l"
+        ]
+    },
+    "fox terrier": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "fox terrier",
+        "fullName": "fox_terrier",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/fox_terrier.png",
+        "imageIpad": "/fox_terrier_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "fox terrier",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "foxhound": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "foxhound",
+        "fullName": "foxhound",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/foxhound.png",
+        "imageIpad": "/foxhound_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "foxhound",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "g",
+            "l"
+        ]
+    },
+    "galgo": {
+        "collar": [
+            "pp",
+            "xs"
+        ],
+        "en_name": "greyhound",
+        "fullName": "galgo",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/galgo.png",
+        "imageIpad": "/galgo_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "galgo",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "golden retriever": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "golden retriever",
+        "fullName": "golden_retriever",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/golden_retriever.png",
+        "imageIpad": "/golden_retriever_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "golden retriever",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "griffon de bruxelas": {
+        "collar": [
+            "pp",
+            "xs"
+        ],
+        "en_name": "brussels griffon",
+        "fullName": "griffon_bruxelas",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/griffon_bruxelas.png",
+        "imageIpad": "/griffon_bruxelas_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "pp",
+            "xs"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "griffon de bruxelas",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "husky siberiano": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "siberian husky",
+        "fullName": "husky_siberiano",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/husky_siberiano.png",
+        "imageIpad": "/husky_siberiano_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "husky siberiano",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "jack russel": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "jack russell",
+        "fullName": "jack_russel",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/jack_russel.png",
+        "imageIpad": "/jack_russel_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "jack russell",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "kuvasz": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "kuvasz",
+        "fullName": "kuvasz",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/kuvasz.png",
+        "imageIpad": "/kuvasz_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "kuvasz",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "-",
+            "-"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "labrador retriever": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "labrador retriever",
+        "fullName": "labrador_retriever",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/labrador_retriever.png",
+        "imageIpad": "/labrador_retriever_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "labrador",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "lhasa apso": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "lhasa apso",
+        "fullName": "lhasa_apso",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/lhasa_apso.png",
+        "imageIpad": "/lhasa_apso_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "llhasa apso",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "lulu da pomerânia": {
+        "collar": [
+            "pp",
+            "xs"
+        ],
+        "en_name": "pomeranian",
+        "fullName": "lulu_da_pomerania",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/lulu_da_pomerania.png",
+        "imageIpad": "/lulu_da_pomerania_white.png",
+        "leash": [
+            "pp",
+            "xs"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "pp",
+            "xs"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "lulu da pomerânia",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "malamute-do-alasca": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "alaskan malamute",
+        "fullName": "malamute_do_alasca",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/malamute_do_alasca.png",
+        "imageIpad": "/malamute_do_alasca_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "malamute do alasca",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "-",
+            "-"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "maltês": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "maltese",
+        "fullName": "maltes",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/maltes.png",
+        "imageIpad": "/maltes_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "maltês",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "new zealand huntaway": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "new zealand huntaway",
+        "fullName": "new-zealand-huntaway",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/new-zealand-huntaway.png",
+        "imageIpad": "/new_zealand_huntaway_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "pastor da nova zelândia",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "norfolk terrier": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "norfolk terrier",
+        "fullName": "norfolk_terrier",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/norfolk_terrier.png",
+        "imageIpad": "/norfolk_terrier_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "norfolk terrier",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "nova scotia d.t.r.": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "nova scotia dtr",
+        "fullName": "nova_scotia_DTR",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/nova_scotia_DTR.png",
+        "imageIpad": "/nova_scotia_DTR_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "nova scotia dtr",
+        "soft_walk": [
+            "p",
+            "s"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "g",
+            "l"
+        ]
+    },
+    "old english sheepdog": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "old english sheepdog",
+        "fullName": "pastor_ingles_antigo",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pastor_ingles_antigo.png",
+        "imageIpad": "/pastor_ingles_antigo_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "pastor inglês",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "pastor alemão": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "german shepherd",
+        "fullName": "pastor_alemao",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pastor_alemao.png",
+        "imageIpad": "/pastor_alemao_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "pastor alemão",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "pastor belga": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "belgian shepherd",
+        "fullName": "pastor_belga",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pastor_belga.png",
+        "imageIpad": "/pastor_belga_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "pastor belga",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "pastor branco suiço": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "white shepherd",
+        "fullName": "pastor_branco_suico",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pastor_branco_suico.png",
+        "imageIpad": "/pastor_branco_suico_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "pastor branco suiço",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "pastor de shetland": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "shetland shepherd",
+        "fullName": "pastor_de_shetland",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pastor_de_shetland.png",
+        "imageIpad": "/pastor_de_shetland_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "pastor de shetland",
+        "soft_walk": [
+            "p",
+            "s"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "pequinês": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "pequinese",
+        "fullName": "pequines",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pequines.png",
+        "imageIpad": "/pequines_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "pequinês",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "pinscher": {
+        "collar": [
+            "pp",
+            "xs"
+        ],
+        "en_name": "pinscher",
+        "fullName": "pinscher",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pinscher.png",
+        "imageIpad": "/pinscher_white.png",
+        "leash": [
+            "pp",
+            "xs"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "pp",
+            "xs"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "pinscher",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "-",
+            "-"
+        ],
+        "sweater": [
+            "pp",
+            "xs"
+        ],
+        "t_shirt": [
+            "pp",
+            "xs"
+        ]
+    },
+    "pitbull": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "american pitbull terrier",
+        "fullName": "pitbull",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pitbull.png",
+        "imageIpad": "/pitbull_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "pitbull",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "pointer": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "pointer",
+        "fullName": "perdigueiro",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/perdigueiro.png",
+        "imageIpad": "/perdigueiro_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "perdigueiro",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "-",
+            "-"
+        ]
+    },
+    "poodle": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "poodle",
+        "fullName": "poodle",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/poodle.png",
+        "imageIpad": "/poodle_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "poodle",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "pug": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "pug",
+        "fullName": "pug",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/pug.png",
+        "imageIpad": "/pug_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "pug",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "rhodesian ridgeback": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "rhodesian ridgeback",
+        "fullName": "leao_da_rodesia",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/leao_da_rodesia.png",
+        "imageIpad": "/leao_da_rodesia_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "leão da rodésia",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "-",
+            "-"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "rottweiler": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "rottweiler",
+        "fullName": "rottweiler",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/rottweiler.png",
+        "imageIpad": "/rottweiler_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "rottweiler",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "samoieda": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "samoieda",
+        "fullName": "samoieda",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/samoieda.png",
+        "imageIpad": "/samoieda_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "samoieda",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "-",
+            "-"
+        ]
+    },
+    "schanuzer": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "schnauzer",
+        "fullName": "schnauzer",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/schnauzer.png",
+        "imageIpad": "/schnauzer_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "schnauzer",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "scottish terrier": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "scottish terrier",
+        "fullName": "scottish_terrier",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/scottish_terrier.png",
+        "imageIpad": "/scottish_terrier_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "scottish terrier",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "setter irlandés": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "irish red setter",
+        "fullName": "setter_irlandes",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/setter_irlandes.png",
+        "imageIpad": "/setter_irlandes_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "setter irlandês",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "shar-pei": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "shar pei",
+        "fullName": "shar_pei",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/shar_pei.png",
+        "imageIpad": "/shar_pei_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "shar pei",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "shiba inu": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "shiba inu",
+        "fullName": "shiba_inu",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/shiba_inu.png",
+        "imageIpad": "/shiba_inu_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "shiba inu",
+        "soft_walk": [
+            "p",
+            "s"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "g",
+            "l"
+        ]
+    },
+    "shih-tzu": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "shih tzu",
+        "fullName": "shih_tzu",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/shih_tzu.png",
+        "imageIpad": "/shih_tzu_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "shih tzu",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "spitz alemão": {
+        "collar": [
+            "pp",
+            "xs"
+        ],
+        "en_name": "german spitz",
+        "fullName": "spitz_alemao",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/spitz_alemao.png",
+        "imageIpad": "/spitz_alemao_white.png",
+        "leash": [
+            "pp",
+            "xs"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "pp",
+            "xs"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "spitz alemão",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "spitz japonês": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "japanese spitz",
+        "fullName": "spitz_japones",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/spitz_japones.png",
+        "imageIpad": "/spitz_japones_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "spitz japonês",
+        "soft_walk": [
+            "p",
+            "s"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "srd": {
+        "en_name": "mutt",
+        "fullName": "srd",
+        "info": "Você tem um SRD? Irado! Como são únicos e exclusivos, selecione a raça que tenha o porte mais parecido com ele para saber os melhores tamanhos dos produtos.",
+        "pt_name": "SRD"
+    },
+    "staff bull terrier": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "staffordshire bull terrier",
+        "fullName": "staffordshire_bull_terrier",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/staffordshire_bull_terrier.png",
+        "imageIpad": "/staffordshire_bull_terrier_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "staffordshire bull terrier",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "são bernardo": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "saint bernard",
+        "fullName": "sao_bernardo",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/sao_bernardo.png",
+        "imageIpad": "/sao_bernardo_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "são bernardo",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "-",
+            "-"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "-",
+            "-"
+        ]
+    },
+    "teckel": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "teckel",
+        "fullName": "teckel",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/teckel.png",
+        "imageIpad": "/teckel_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "teckel",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "terra-nova": {
+        "collar": [
+            "g",
+            "l"
+        ],
+        "en_name": "newfoundland",
+        "fullName": "terra_nova",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/terra_nova.png",
+        "imageIpad": "/terra_nova_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "terra-nova",
+        "soft_walk": [
+            "g",
+            "l"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "terrier brasileiro": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "brazilian terrier",
+        "fullName": "terrier_brasileiro",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/terrier_brasileiro.png",
+        "imageIpad": "/terrier_brasileiro_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "terrier brasileiro",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "terrier tibetano": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "tibetan terrier",
+        "fullName": "terrier_tibetano",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/terrier_tibetano.png",
+        "imageIpad": "/terrier_tibetano_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "terrier tibetano",
+        "soft_walk": [
+            "p",
+            "s"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "vira-lata": {
+        "en_name": "mutt",
+        "fullName": "vira-lata",
+        "info": "Você tem um Vira-lata? Irado! Como são únicos e exclusivos, selecione a raça que tenha o porte mais parecido com ele para saber os melhores tamanhos dos produtos.",
+        "pt_name": "Vira-lata"
+    },
+    "vizsla": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "vizsla",
+        "fullName": "vizsla",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/vizsla.png",
+        "imageIpad": "/vizsla_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "vizsla",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "g",
+            "l"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "weimaraner": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "weimaraner",
+        "fullName": "weimaraner",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/weimaraner.png",
+        "imageIpad": "/weimaraner_white.png",
+        "leash": [
+            "g",
+            "l"
+        ],
+        "leash_ruff": [
+            "g",
+            "l"
+        ],
+        "meshplus": [
+            "g",
+            "l"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "weimaraner",
+        "soft_walk": [
+            "m",
+            "m"
+        ],
+        "stepin": [
+            "g",
+            "l"
+        ],
+        "sweater": [
+            "-",
+            "-"
+        ],
+        "t_shirt": [
+            "gg",
+            "xl"
+        ]
+    },
+    "welsh corgi": {
+        "collar": [
+            "m",
+            "m"
+        ],
+        "en_name": "corgi",
+        "fullName": "corgi",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/corgi.png",
+        "imageIpad": "/corgi_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "m",
+            "m"
+        ],
+        "obedience": [
+            "m",
+            "m"
+        ],
+        "pt_name": "corgi",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "west highland": {
+        "collar": [
+            "p",
+            "s"
+        ],
+        "en_name": "west highland terrier",
+        "fullName": "west_highland_terrier",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/west_highland_terrier.png",
+        "imageIpad": "/west_highland_terrier_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "p",
+            "s"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "west highland terrier",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "m",
+            "m"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    },
+    "whippet": {
+        "collar": [
+            "pp",
+            "xs"
+        ],
+        "en_name": "whippet",
+        "fullName": "whippet",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/whippet.png",
+        "imageIpad": "/whippet_white.png",
+        "leash": [
+            "p",
+            "s"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "-",
+            "-"
+        ],
+        "obedience": [
+            "-",
+            "-"
+        ],
+        "pt_name": "whippet",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "m",
+            "m"
+        ],
+        "t_shirt": [
+            "m",
+            "m"
+        ]
+    },
+    "yorkshire": {
+        "collar": [
+            "pp",
+            "xs"
+        ],
+        "en_name": "yorkshire",
+        "fullName": "yorkshire",
+        "image": "https://s3-sa-east-1.amazonaws.com/zee.dog/athena/images/yorkshire.png",
+        "imageIpad": "/yorkshire_white.png",
+        "leash": [
+            "pp",
+            "xs"
+        ],
+        "leash_ruff": [
+            "p",
+            "s"
+        ],
+        "meshplus": [
+            "pp",
+            "xs"
+        ],
+        "obedience": [
+            "p",
+            "s"
+        ],
+        "pt_name": "yorkshire",
+        "soft_walk": [
+            "-",
+            "-"
+        ],
+        "stepin": [
+            "p",
+            "s"
+        ],
+        "sweater": [
+            "p",
+            "s"
+        ],
+        "t_shirt": [
+            "p",
+            "s"
+        ]
+    }
+}
